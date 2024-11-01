@@ -1,0 +1,35 @@
+*** Simple MinMax Changelog ***
+
+= 3.0.1 =
+  * Add - Wordpress 6.6.1
+
+= 3.0.0 =
+  * Some minor bug fixes
+  * More vigorous sanitizing, escaping, and validating
+  * Dynamic currency symbol, delimiter and precession
+
+= 2.1.3 =
+  * Add - Wordpress 6.3
+
+= 2.1.2 =
+  * Add - Wordpress 6.1.1
+  * Update contact details
+
+= 2.1.1 =
+  * Add - Wordpress 6.0.3 
+
+= 2.1.0 =
+  * Add - Category Do Not Display On Shop Page (for Monique)
+  * Add - Wordpress 6.0.2 
+
+= 2.0.0 =
+  * Add - Minimum/Maximum Category Value (for Monique)
+  * Add - Minimum/Maximum Category Quantity
+
+= 1.1.0 =
+  * Add - Updated documentation
+  * Fix - variable checking
+
+= 1.0.0 =
+  * Initial Release
+
